@@ -9,7 +9,7 @@ The Student Performance Analysis System is a Python-based backend project that p
 
 # Key Features:
 
-1)Python REST API: Developed a REST API using Python methods (do_GET, do_PUT, etc.) to fetch and update records from the database tables (students, courses, and grades). 
-2)GPA Calculation: Created a Python method to calculate the GPA of students based on their grades. 
-3)Grade Distribution Report: Developed a Python method to generate reports that show grade distribution across different courses. 
+1)Python REST API: Developed a REST API using Python methods (do_GET, do_PUT, etc.) to fetch and update records from the database tables (students, courses, and grades).  
+2)GPA Calculation: Created a Python method to calculate the GPA of students based on their grades.  
+3)Grade Distribution Report: Developed a Python method to generate reports that show grade distribution across different courses.  
 4)Grade Change Notification: Implemented a Python method to notify students via email when their grades are updated.
