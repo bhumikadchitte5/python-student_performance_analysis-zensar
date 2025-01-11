@@ -22,5 +22,9 @@ The Student Performance Analysis System is a Python-based backend project that p
  5)table_structure_creation.sql: SQL script for creating the required database tables (students, courses, grades). 
  6)data_insertion.sql: SQL script for inserting initial records into the database tables.
 
- # How to Run the Project:
- 
+ # How to Run the Project:  
+ step 1): Initially runs the .py file of Particular Operation  
+ step 2): Then use the POSTMAN API to test the Developed API using following request url  
+ http://localhost:8080/student/
+
+ Thank You!
