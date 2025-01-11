@@ -15,11 +15,9 @@ The Student Performance Analysis System is a Python-based backend project that p
 4)Grade Change Notification: Implemented a Python method to notify students via email when their grades are updated.
 
 # Project Files:  
-1)GPA_Calculation.py: Contains the logic to calculate the GPA of a student based on their marks. 
- 
+ 1)GPA_Calculation.py: Contains the logic to calculate the GPA of a student based on their marks. 
  2)Grade_Distribution_Report.py: Generates grade distribution reports for all courses.  
  3)Grade_change_notify.py: Sends notifications to students when any grade updates are made.  
  4)Student_record.py: Fetches student records from the database using the student ID.  
  5)table_structure_creation.sql: SQL script for creating the required database tables (students, courses, grades). 
- 
  6)data_insertion.sql: SQL script for inserting initial records into the database tables.
